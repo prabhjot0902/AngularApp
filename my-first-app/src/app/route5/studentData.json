@@ -1,0 +1,30 @@
+[
+    {
+        "Name": "Prabhjot",
+        "Class":"8",
+        "Section":"A",
+        "Sub1":"100",
+        "Sub2":"100",
+        "Sub3":"100",
+        
+    },
+    {
+        "Name": "Divjot",
+        "Class":"2",
+        "Section":"A",
+        "Sub1":"88",
+        "Sub2":"44",
+        "Sub3":"59",
+      
+   
+    },
+    {
+        "Name": "Manjot",
+        "Class":"9",
+        "Section":"A",
+        "Sub1":"89",
+        "Sub2":"91",
+        "Sub3":"74",
+        
+    }
+]
